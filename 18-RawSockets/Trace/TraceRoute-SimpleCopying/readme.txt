@@ -1,0 +1,1 @@
+Can be made better by letting each program ask to whom it should send, can have a really long route that way.
