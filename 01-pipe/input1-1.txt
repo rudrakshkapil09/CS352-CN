@@ -1,0 +1,3 @@
+//Assignment 1 - P sends filename to P', P' reads and sends back contents to P, P prints the contents
+(^These are the contents)
+END
